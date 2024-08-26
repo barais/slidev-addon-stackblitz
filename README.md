@@ -1,4 +1,4 @@
-# slidev-addon-jsfiddle
+# slidev-addon-stackblitz
 
 Stackblitz component for [sli.dev](https://sli.dev/)
 
