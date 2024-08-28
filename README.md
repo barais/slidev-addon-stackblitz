@@ -45,7 +45,7 @@ addons:
 
 ## Components
 
-### QRCode
+### Stackblitz
 
 ```vue
 <Stackblitz id="angular-druxxd" file="src%2Fmain.ts" width="100%" height="450"/>
